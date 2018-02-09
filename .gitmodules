@@ -1,0 +1,3 @@
+[submodule "src/fontkit"]
+	path = src/fontkit
+	url = https://github.com/devongovett/fontkit
