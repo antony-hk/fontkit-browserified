@@ -1,3 +1,3 @@
-import fontkit from './fontkit';
+import fontkit from 'fontkit';
 
 export { fontkit as default };

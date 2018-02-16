@@ -12,6 +12,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babelify": "^8.0.0",
-    "browserify": "^16.0.0"
+    "browserify": "^16.0.0",
+    "fontkit": "1.7.7"
   }
 }
