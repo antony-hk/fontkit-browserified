@@ -20,6 +20,6 @@
     "babel-preset-env": "^1.6.1",
     "babelify": "^8.0.0",
     "browserify": "^16.2.3",
-    "fontkit": "1.7.7"
+    "fontkit": "1.7.8"
   }
 }
